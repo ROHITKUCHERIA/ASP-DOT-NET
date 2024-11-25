@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "ControllerToViewAsTempView";
+}
+
+<h1>ControllerToViewAsTempView</h1>
+@* 
+    TempView
+      
+    1. TempData is used only for current or subsequent requests as it is a very short-lived instance.
+    2. Redirecting is this only case when users can rely on TempData.
+    3. When redirecting, current request is killed, and a new request is created on the server to server the redirected view.
+    4. TempData is Dictionary object derived from the TempDataDictionary class.
+    5. TempData stores data as key-value pairs.
+    6. TempData value must be type cast before use.
+    7. Check for null values to avoid runtime error.
+    8. TempData in ASP.NET MVC can be used to store temporary data which can be used in the subsequent request.
+    9. call TempData.Keep() to keep all the values of TempData in a third request.
+*@
+
+<h4>
+    My Favorite color is @ViewBag.fav_color
+</h4><p>-------------------------------</p>
+<p> ViewBag as View Data</p>
+<h4> I hate color is @ViewData["bad_color"] </h4>
+<p>-------------------------------------</p>
+<h3>My Favorite color combination is @TempData["color_combination"]</h3>
+

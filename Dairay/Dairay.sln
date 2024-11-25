@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DairayApp", "DairayApp\DairayApp.csproj", "{ED4884C1-2293-44BC-A8E8-DCD4B072DC46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4884C1-2293-44BC-A8E8-DCD4B072DC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4884C1-2293-44BC-A8E8-DCD4B072DC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4884C1-2293-44BC-A8E8-DCD4B072DC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4884C1-2293-44BC-A8E8-DCD4B072DC46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5EC5F92-6F1C-4B79-AACB-60C0EF2013F6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\migrations\\20241120131624_codefirstcreatedbaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\migrations\\20241120131624_codefirstcreatedbaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|c:\\users\\admin\\source\\repos\\codefirstaspcore6\\codefirstaspcore6\\migrations\\20241120130851_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B64D174-4C6F-49B6-BC30-FC8153A59B73}|CodeFirstASPCore6\\CodeFirstASPCore6.csproj|solutionrelative:codefirstaspcore6\\migrations\\20241120130851_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstASPCore6\\Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:21:20.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstASPCore6\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:48:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstASPCore6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T13:23:22.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241120131624_CodeFirstCreateDBAddClass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Migrations\\20241120131624_CodeFirstCreateDBAddClass.cs",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Migrations\\20241120131624_CodeFirstCreateDBAddClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Migrations\\20241120131624_CodeFirstCreateDBAddClass.cs",
+              "RelativeToolTip": "CodeFirstASPCore6\\Migrations\\20241120131624_CodeFirstCreateDBAddClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:16:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Program.cs",
+              "RelativeToolTip": "CodeFirstASPCore6\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:03:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\appsettings.json",
+              "RelativeToolTip": "CodeFirstASPCore6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T12:15:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstASPCore6\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:49:29.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstASPCore6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:20:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241120130851_CodeFirstCreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Migrations\\20241120130851_CodeFirstCreateDB.cs",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Migrations\\20241120130851_CodeFirstCreateDB.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Migrations\\20241120130851_CodeFirstCreateDB.cs",
+              "RelativeToolTip": "CodeFirstASPCore6\\Migrations\\20241120130851_CodeFirstCreateDB.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:08:51.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstASPCore6\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:43:18.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstASPCore6\\Models\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CodeFirstASPCore6\\CodeFirstASPCore6\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "CodeFirstASPCore6\\Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T12:02:02.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

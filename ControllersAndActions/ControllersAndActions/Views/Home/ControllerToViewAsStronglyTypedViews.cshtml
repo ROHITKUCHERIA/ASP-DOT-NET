@@ -1,0 +1,24 @@
+﻿
+@model ControllersAndActions.Models.Employee
+@{
+    ViewData["Title"] = "ControllerToViewAsStronglyTypedViews";
+}
+
+<h1>ControllerToViewAsStronglyTypedViews</h1>
+
+@* 
+    Strongly Typed Views
+
+    1. The view which binds with any model is called as strongly typed view.
+    2. we can bind any class as a model to view.
+    3. we can access model properties on that view.
+    4. we can use the data associated with model to render controls.
+    5. the view that is designed by targeting specific model class object then that view is called "Strongly Typed View".
+    6. In Strongly typed view, view is bind with corresponding model class object or list of objects.
+*@
+
+<h1>My Id is @Model.EmpId</h1>
+<h2>Name : @Model.EmpName</h2>
+<h3>Designation : @Model.Designation</h3>
+<h4>Salary : @Model.Salary</h4>
+

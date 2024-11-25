@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";       // If we define layout at both _viewStart and .cshtml file then .cshtml define priority will be high. using this we can use multiple layout for different-2 pages.
+    // Layout = null                                   // this is useful if we do not want any header footer means master layout for specific page then we can define layout as null.
+}
+
+<h1>Index</h1>
+<h2>This is my home page</h2>
+@* Rules 
+    start inline expressions with @
+    Enclose code blocks between @{ your code logic }
+    Variable are declared with the var keyword
+    Enclose strings in quotation marks
+    End a Razor code statement with semicolon (;) if we use @{ } multiple lines.
+
+
+
+<h1>Index</h1>
+<h2>Today Date and time @DateTime.Now</h2>
+<h2> Year : @DateTime.Now.Year</h2>
+
+@{
+    var name = "My name is Rohit";
+    var age = "24 year";
+
+}
+
+<h2> Name = @name </h2>
+<h2> age = @age </h2>
+
+
+@{
+    var MyName = "Rohit";
+
+    if(MyName == "Rohit")
+    {
+        <h3>Hey Rohit </h3>
+    } else
+    {
+        <h3> Who are you Bye ..!</h3>
+    }
+}
+@{
+    for (int i = 0; i <= 10; i++)
+    {
+        <h2>@i</h2> 
+    }
+}
+
+@{
+    string[] avatars = { "Rohit", "Mohit", "Manish", "Rajesh" };
+    foreach (var item in avatars)
+    {
+        <h2>@item</h2>
+    }
+}
+*@
+
+@TempData["color_combination"]
+
+
+
+
+

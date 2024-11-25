@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "ControllerToViewAsViewData";
+}
+
+@* f
+// View Data 
+
+ it passes data from a controller to a view.
+ Is a dictionary of objects that is derived from the ViewDataDictionary class.
+ The life of a ViewData object exists only during the current request.
+ The value of ViewData becomes null if the request is redirected.
+ viewdata required typecasting when we use complex data type to avoid error.
+
+ Note : ViewData does not provide compile time error checking. 
+          for example - 
+          if we miss spell keys we wouldn't get any compile time error. 
+          we get to know about the error only at runtime.' 
+*@
+
+
+<h1>This is ControllerToViewAsViewData page </h1>
+
+<h1>My name is @ViewData["name"]</h1>
+<h2>Age : @ViewData["age"]</h2>
+<h3>Mobile No : @ViewData["mobile_no"]</h3>
+<h4>Today Day : @ViewData["today_date"]</h4>
+<p>-------------------------------</p>
+<p>Array</p>
+@{
+    foreach(var item in (string[])ViewData["friends"])
+    {
+        <h2> @item is My Friend</h2>
+    }
+}
+<p>-----------------------------</p>
+<p>List</p>
+@{
+    foreach (var item in (List<string>)ViewData["fav_places"])
+    {
+        <h2> @item is My Visit Places</h2>
+    }
+}
+<p>-------------------------------</p>

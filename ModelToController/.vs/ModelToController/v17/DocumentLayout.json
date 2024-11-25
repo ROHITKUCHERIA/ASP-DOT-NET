@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\ModelToController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A784F1D3-F02F-4B4E-8C94-C15B050E7958}|ModelToController\\ModelToController.csproj|c:\\users\\admin\\source\\repos\\modeltocontroller\\modeltocontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A784F1D3-F02F-4B4E-8C94-C15B050E7958}|ModelToController\\ModelToController.csproj|solutionrelative:modeltocontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A784F1D3-F02F-4B4E-8C94-C15B050E7958}|ModelToController\\ModelToController.csproj|c:\\users\\admin\\source\\repos\\modeltocontroller\\modeltocontroller\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A784F1D3-F02F-4B4E-8C94-C15B050E7958}|ModelToController\\ModelToController.csproj|solutionrelative:modeltocontroller\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A784F1D3-F02F-4B4E-8C94-C15B050E7958}|ModelToController\\ModelToController.csproj|c:\\users\\admin\\source\\repos\\modeltocontroller\\modeltocontroller\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A784F1D3-F02F-4B4E-8C94-C15B050E7958}|ModelToController\\ModelToController.csproj|solutionrelative:modeltocontroller\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ModelToController\\ModelToController\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelToController\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ModelToController\\ModelToController\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelToController\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:39:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ModelToController\\ModelToController\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ModelToController\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ModelToController\\ModelToController\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "ModelToController\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:37:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ModelToController\\ModelToController\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "ModelToController\\Repository\\IStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ModelToController\\ModelToController\\Repository\\IStudent.cs",
+              "RelativeToolTip": "ModelToController\\Repository\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:34:03.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

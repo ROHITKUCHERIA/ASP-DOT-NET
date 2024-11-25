@@ -1,0 +1,79 @@
+﻿@model IEnumerable<CodeFirstASPCore6.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<style>
+    .custom-alert {
+        position: fixed;          /* Fix the alert to the screen */
+        top: 10%;                 /* Adjust vertical position */
+        right: 10px;              /* Adjust horizontal position (you can also use 'left' or 'center' if you prefer) */
+        width: auto;              /* Width adjusts according to the content */
+        max-width: 300px;         /* Optional: Set a max-width to prevent the alert from being too wide */
+        padding: 10px 20px;       /* Padding for better readability */
+        z-index: 9999;            /* Ensure the alert is above other elements */
+    }
+</style>
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@{
+    if (TempData["success"] != null)
+    {
+        <div class="alert alert-success custom-alert" role="alert">
+            @TempData["success"]
+        </div>
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Standard)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Standard)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<script>
+    setTimeout(function() {
+        $(".alert").fadeTo(1000, 500).slideUp(500, function() {
+            $(this).alert('close');
+        });
+    }, 1000); // Delay of 5 seconds before the animation starts
+</script>

@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "ControllerToViewAsViewBag";
+}
+
+
+<h1>ControllerToViewAsViewBag page</h1>
+@* 
+    ViewBag
+
+    1. ViewBag Is a dynamic data type property of the base class of all the controllers, which is the controller Base class.
+    2. ViewBag is a dynamic data type, which internally uses ViewData to store values.
+    3. ViewBag exists only for the current request and becomes null if the request is redirected.
+    4. ViewBag does not required typecasting when we use complex data type.
+
+    Note : ViewBag does not provide compile time error checking. 
+           for example - 
+           if we mis - spell keys we wouldn't get any compile time errors.
+           we get to know about the error only at runtime.
+    5. ViewData and ViewBag can access each other data interchangeably.
+*@
+
+<h1>My name is @ViewBag.name</h1>
+<h2>Age : @ViewBag.age</h2>
+<h3>Mobile No : @ViewBag.mobile_no</h3>
+<h4>Today Day : @ViewBag.today_date</h4>
+<p>-------------------------------</p>
+<p>Array</p>
+@{
+    foreach (var item in ViewBag.friends)
+    {
+        <h2> @item is My Friend</h2>
+    }
+}
+<p>-----------------------------</p>
+<p>List</p>
+@{
+    foreach (var item in ViewBag.fav_places)
+    {
+        <h2> @item is My Visit Places</h2>
+    }
+}
+<p>-------------------------------</p>
+
+
+<p> ViewData as a View Bag</p>
+<h4> My Favorite color is @ViewBag.fav_color 
+</h4><p>-------------------------------</p>
+<p> ViewBag as View Data</p>
+<h4> I hate color is @ViewData["bad_color"] 
