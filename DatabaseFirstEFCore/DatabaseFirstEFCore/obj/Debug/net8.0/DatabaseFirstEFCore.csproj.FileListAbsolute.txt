@@ -286,3 +286,4 @@ C:\Users\ADMIN\source\repos\DatabaseFirstEFCore\DatabaseFirstEFCore\bin\Debug\ne
 C:\Users\ADMIN\source\repos\DatabaseFirstEFCore\DatabaseFirstEFCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\ADMIN\source\repos\DatabaseFirstEFCore\DatabaseFirstEFCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ADMIN\source\repos\DatabaseFirstEFCore\DatabaseFirstEFCore\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\source\repos\DatabaseFirstEFCore\DatabaseFirstEFCore\obj\Debug\net8.0\DatabaseFirstEFCore.sourcelink.json

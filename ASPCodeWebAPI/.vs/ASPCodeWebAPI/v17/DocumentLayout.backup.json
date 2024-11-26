@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\ASPCodeWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C6E145A-1817-485E-825C-4A32C4214B6E}|ASPCodeWebAPI\\ASPCodeWebAPI.csproj|c:\\users\\admin\\source\\repos\\aspcodewebapi\\aspcodewebapi\\controllers\\fruitsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6E145A-1817-485E-825C-4A32C4214B6E}|ASPCodeWebAPI\\ASPCodeWebAPI.csproj|solutionrelative:aspcodewebapi\\controllers\\fruitsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6E145A-1817-485E-825C-4A32C4214B6E}|ASPCodeWebAPI\\ASPCodeWebAPI.csproj|c:\\users\\admin\\source\\repos\\aspcodewebapi\\aspcodewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E145A-1817-485E-825C-4A32C4214B6E}|ASPCodeWebAPI\\ASPCodeWebAPI.csproj|solutionrelative:aspcodewebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6E145A-1817-485E-825C-4A32C4214B6E}|ASPCodeWebAPI\\ASPCodeWebAPI.csproj|c:\\users\\admin\\source\\repos\\aspcodewebapi\\aspcodewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6E145A-1817-485E-825C-4A32C4214B6E}|ASPCodeWebAPI\\ASPCodeWebAPI.csproj|solutionrelative:aspcodewebapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FruitsAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ASPCodeWebAPI\\ASPCodeWebAPI\\Controllers\\FruitsAPIController.cs",
-              "RelativeDocumentMoniker": "ASPCodeWebAPI\\Controllers\\FruitsAPIController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ASPCodeWebAPI\\ASPCodeWebAPI\\Controllers\\FruitsAPIController.cs*",
-              "RelativeToolTip": "ASPCodeWebAPI\\Controllers\\FruitsAPIController.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBQAAAAaAAAAAAAAAA==",
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ASPCodeWebAPI\\ASPCodeWebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ASPCodeWebAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ASPCodeWebAPI\\ASPCodeWebAPI\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "ASPCodeWebAPI\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T09:31:08.897Z",
+              "WhenOpened": "2024-11-26T05:42:17.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\ASPCodeWebAPI\\ASPCodeWebAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "ASPCodeWebAPI\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\ASPCodeWebAPI\\ASPCodeWebAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "ASPCodeWebAPI\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:46:39.297Z",
               "EditorCaption": ""
             }
           ]

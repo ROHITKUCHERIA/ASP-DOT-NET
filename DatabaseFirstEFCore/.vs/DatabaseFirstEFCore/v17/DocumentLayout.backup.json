@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|c:\\users\\admin\\source\\repos\\databasefirstefcore\\databasefirstefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|solutionrelative:databasefirstefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|c:\\users\\admin\\source\\repos\\databasefirstefcore\\databasefirstefcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|solutionrelative:databasefirstefcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|c:\\users\\admin\\source\\repos\\databasefirstefcore\\databasefirstefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|solutionrelative:databasefirstefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|c:\\users\\admin\\source\\repos\\databasefirstefcore\\databasefirstefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|solutionrelative:databasefirstefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE4D4C2-473E-4F20-A6BB-E9420610B3B2}|DatabaseFirstEFCore\\DatabaseFirstEFCore.csproj|c:\\users\\admin\\source\\repos\\databasefirstefcore\\databasefirstefcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +30,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\DatabaseFirstEFCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstEFCore\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\DatabaseFirstEFCore\\Models\\Employee.cs",
+              "RelativeToolTip": "DatabaseFirstEFCore\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:00:56.672Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,14 +57,14 @@
               "RelativeDocumentMoniker": "DatabaseFirstEFCore\\appsettings.json",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\DatabaseFirstEFCore\\appsettings.json",
               "RelativeToolTip": "DatabaseFirstEFCore\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-21T13:01:13.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\DatabaseFirstEFCore\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "DatabaseFirstEFCore\\Views\\Home\\Details.cshtml",
@@ -51,12 +72,11 @@
               "RelativeToolTip": "DatabaseFirstEFCore\\Views\\Home\\Details.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T11:44:06.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T11:44:06.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\DatabaseFirstEFCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DatabaseFirstEFCore\\Controllers\\HomeController.cs",
@@ -64,18 +84,17 @@
               "RelativeToolTip": "DatabaseFirstEFCore\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAQwDEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T10:45:54.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T10:45:54.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\DatabaseFirstEFCore\\Program.cs",
               "RelativeDocumentMoniker": "DatabaseFirstEFCore\\Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\DatabaseFirstEFCore\\DatabaseFirstEFCore\\Program.cs",
               "RelativeToolTip": "DatabaseFirstEFCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T11:33:48.567Z",
               "EditorCaption": ""
